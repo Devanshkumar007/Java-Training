@@ -1,0 +1,28 @@
+1. Remove Duplicates
+	Given an array of integers, remove duplicate elements using HashSet and print unique values.
+
+2. Count Unique Elements
+	Write a program to count the number of unique characters in a given string using Set.
+
+3. Common Elements
+	Find common elements between two integer arrays using HashSet.
+
+4. Check Element Presence
+	Check whether a given element exists in a Set.
+
+5. Union of Two Sets
+	Find the union of two sets using Set methods.
+
+6. Intersection of Two Sets
+	Find the intersection of two sets using retainAll().
+
+7. Difference of Sets
+	Find elements present in Set A but not in Set B.
+
+8. Remove all even numbers from a Set while iterating.
+
+9. First Repeating Element
+	Find the first repeating element in an array using HashSet.
+
+10. First Non-Repeating Element
+	Find the first non-repeating character in a string using LinkedHashSet.
