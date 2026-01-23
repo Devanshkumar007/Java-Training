@@ -11,6 +11,5 @@ public class MethodReferencingEmployee {
 			new Employee(4,"Bhalu",97946));
 		
 		emps.forEach(Employee::printDetails);
-		
 	}
 }
